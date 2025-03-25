@@ -1,0 +1,36 @@
+.api-page {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .api-page h1 {
+    color: #333;
+  }
+  
+  .api-table {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .api-table th, .api-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+  }
+  
+  .api-table th {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .api-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .api-table tr:hover {
+    background-color: #ddd;
+  }
+  

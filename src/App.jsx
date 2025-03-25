@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Weather from "./components/Weather"; // Din vädersida
-import ApiPage from "./components/ApiPage"; // Den nya sidan
+import Weather from "./components/Weather"; //  vädersida
+import ApiPage from "./components/ApiPage"; // API sida
 
 const App = () => {
   return (
